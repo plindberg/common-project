@@ -1,0 +1,5 @@
+# Twelve-factor configuration
+.env
+
+# ESLint
+.eslintcache
