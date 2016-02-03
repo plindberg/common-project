@@ -1,0 +1,19 @@
+{
+  "name": "common-project",
+  "version": "1.0.0",
+  "description": "Node module for common project setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monieshq/common-project.git"
+  },
+  "author": "Peter Lindberg <peter@monies.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monieshq/common-project/issues"
+  },
+  "homepage": "https://github.com/monieshq/common-project#readme"
+}
