@@ -1,6 +1,6 @@
 {
   "name": "common-project",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node module for common project setup.",
   "main": "index.js",
   "scripts": {
