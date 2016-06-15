@@ -10,7 +10,7 @@
     "semi": [2, "always"],
     "eqeqeq": [2, "smart"],
 
-    // Style
-    "space-before-function-paren": [2, { "anonymous": "always", "named": "never" }]
+    "space-before-function-paren": [2, { "anonymous": "always", "named": "never" }],
+    "quotes": [2, "single", {"avoidEscape": true, "allowTemplateLiterals": true}]
   }
 }
